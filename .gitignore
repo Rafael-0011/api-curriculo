@@ -31,3 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
+
+src/main/resources/mykey.pem
+src/main/resources/mykey.pub
